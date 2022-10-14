@@ -1,0 +1,21 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background-color: black;
+  text-align: center;
+}
+
+footer p {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+footer a {
+  /*text-decoration: none;*/
+  color: #f2cb05eb;
+  font-size: 25px;
+  font-weight: bold;
+}
